@@ -1,1 +1,7 @@
 pydicom
+pathlib
+cv2
+numpy
+pandas
+matplotlib
+tqdm
